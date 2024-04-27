@@ -1,0 +1,58 @@
+@font-face{
+    font-family: "DM Sans";
+    font-weight: 700;
+    src: url(./fonts/DMSans-Italic-VariableFont_opsz\,wght.ttf) format("ttf") ;
+}
+
+
+.text{
+    font-family: "Montserrat", sans-serif;
+    font-style: italic;
+    font-size: ;
+}
+.text {
+/* ПЛАНУВАННЯ */
+
+font-family: "Roboto";
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 15px;
+text-transform: uppercase;
+
+color: #212121;
+}
+.text1{
+    
+}
+
+.text1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roborto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+.raleway-uniquifier {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+
+.roboto-black {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}

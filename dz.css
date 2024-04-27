@@ -1,0 +1,40 @@
+.a{
+    background-color: pink;
+}
+#greycol{
+    background-color: gray;
+}
+.b{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.c{
+    background-color: green;
+}
+.lesson-title:hover,
+.lesson-title:active {
+    font-size: 30px;
+    color: red !important;
+}
+.lesson-title:hover{
+    color: white;
+}
+.lesson-title:hover{
+    color: orange;
+    background-color: aquamarine;
+}
+button:focus{
+    outline: none;
+    border: none;
+    border: 2px double yellowgreen;
+}
+
+.lesson-item:not(:last-child) {
+    background-color: green;
+}
+
+.lesson-item{
+    font-size: 24px;
+}
