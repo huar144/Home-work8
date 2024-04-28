@@ -56,3 +56,12 @@ color: #212121;
   font-weight: 900;
   font-style: normal;
 }
+p:last-child {
+
+position: absolute;
+width: 1170px;
+height: 98px;
+left: 215px;
+top: 774px;
+
+}
